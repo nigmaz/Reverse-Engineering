@@ -78,3 +78,5 @@ https://xikhud.wordpress.com/
 - https://github.com/michalmalik/linux-re-101
 - https://github.com/michalmalik/osx-re-101
 - https://github.com/Da2dalus/The-MALWARE-Repo
+- https://github.com/CMEPW/BypassAV
+
