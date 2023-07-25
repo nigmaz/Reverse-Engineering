@@ -57,8 +57,6 @@
 
 ## [2]. References: 
 
-[+] https://github.com/wtsxDev/reverse-engineering
-
 [+] [Slide SVATTT - RE b2](https://docs.google.com/presentation/d/1SBBp04TkILxE-vSARvI_Uo3aF7lswh-FT5dumWWssT0/edit?fbclid=IwAR33UPvpYYBkpxZL8qfOJ2V-XF6xxFhE5BRuVnrNZGVkLGHT2U0i1f-iOio#slide=id.g241d1437ad9_0_0) .
 
 [+] __Machine RE__
@@ -73,3 +71,10 @@ https://drive.google.com/file/d/1vS8s8HECV2g6iWbEcHgrQDykZhzWjJ99/view?usp=shari
 
 https://xikhud.wordpress.com/
 
+[+] Github RE and Malware tham khảo 
+
+- https://github.com/wtsxDev/reverse-engineering
+- https://github.com/mytechnotalent/Reverse-Engineering
+- https://github.com/michalmalik/linux-re-101
+- https://github.com/michalmalik/osx-re-101
+- https://github.com/Da2dalus/The-MALWARE-Repo
