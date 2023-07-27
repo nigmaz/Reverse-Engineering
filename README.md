@@ -65,14 +65,10 @@
 - [GNU Linux](https://remnux.org/?fbclid=IwAR3LEPYLKkJWe2rwHav8pwY9igS5e89p3q0sqFy8_ZNvkio-WHRRV99GjhA) .
 - [RE-Toolkit](https://github.com/mentebinaria/retoolkit?fbclid=IwAR1uAu_jBCIVc1y57PSv6xesm4Nedmw6ai23Nj-a58HxwDuSFNG4AcZVJA0) .
 
-[+] https://tryhackme.com/room/windowsreversingintro?fbclid=IwAR3yC6T0hFYake1O9dIrP13sAlKdOxC2JJkXH79047LbxwHdmCQqjEOF1Jo
-
-https://drive.google.com/file/d/1vS8s8HECV2g6iWbEcHgrQDykZhzWjJ99/view?usp=sharing
-
-https://xikhud.wordpress.com/
+[+] LAB Tryhackme: https://tryhackme.com/room/windowsreversingintro?fbclid=IwAR3yC6T0hFYake1O9dIrP13sAlKdOxC2JJkXH79047LbxwHdmCQqjEOF1Jo
 
 [+] Github RE and Malware tham khảo 
-
+- https://xikhud.wordpress.com/
 - https://github.com/wtsxDev/reverse-engineering
 - https://github.com/mytechnotalent/Reverse-Engineering
 - https://github.com/michalmalik/linux-re-101
