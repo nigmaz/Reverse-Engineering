@@ -33,13 +33,6 @@
 
    * [ISITDTU CTF 2018 Quals - inter](https://aides2593.github.io/writeup/re/2018/08/21/inter.html) .
     
-
-- Realworld Malware Analysis
-   * sheet reader => rce cve (Malware Excel)
-   * microsoft visual basic for application (Malware Excel)
-   * https://class.malware.re/
-   * https://knightz1.github.io/blog/malware/analysis/2022/11/30/Malware-analysis.html
-
 ### A. AntiDebug.
 
 - https://users.cs.utah.edu/~aburtsev/malw-sem/slides/02-anti-debugging.pdf
@@ -78,4 +71,9 @@
 - Malware
   * https://github.com/Da2dalus/The-MALWARE-Repo
   * https://github.com/CMEPW/BypassAV
+  * https://anonyviet.com/hacker-an-malware-vao-hinh-anh-va-thuc-thi-nhu-the-nao/?fbclid=IwAR23pXiQNxQkhijurEbGFHk2nuCeZn3VsBY0GgbrCcyx_ojOEgY7InjszLI_aem_AdKHux11-ltaYC1vH3PTR7guZ_n1Bv46eDb7VmGrCf8CoKgb1lL4IrHRJtUGyBA9iU8
+  * sheet reader => rce cve (Malware Excel)
+  * microsoft visual basic for application (Malware Excel)
+  * https://class.malware.re/
+  * https://knightz1.github.io/blog/malware/analysis/2022/11/30/Malware-analysis.html
 
