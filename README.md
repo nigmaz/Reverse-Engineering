@@ -77,4 +77,6 @@
   * microsoft visual basic for application (Malware Excel)
   * https://class.malware.re/
   * https://knightz1.github.io/blog/malware/analysis/2022/11/30/Malware-analysis.html
+- Paper tech and real attack
+  * https://whitehat.vn/threads/chien-dich-aurora-va-cuoc-chien-ngam-tren-khong-gian-mang-giua-hai-sieu-cuong-phan-1.17333/
 
