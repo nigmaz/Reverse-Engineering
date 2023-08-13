@@ -77,6 +77,7 @@
   * microsoft visual basic for application (Malware Excel)
   * https://class.malware.re/
   * https://knightz1.github.io/blog/malware/analysis/2022/11/30/Malware-analysis.html
+  * Tấn công thông qua sửa Windows Registry => sửa tham số hệ thống, có 1 dịch vụ dangerous là `remote windows registry`.
 - Paper tech and real attack
   * https://whitehat.vn/threads/chien-dich-aurora-va-cuoc-chien-ngam-tren-khong-gian-mang-giua-hai-sieu-cuong-phan-1.17333/
 
