@@ -69,6 +69,7 @@
 - https://github.com/michalmalik/linux-re-101
 - https://github.com/michalmalik/osx-re-101
 - Malware
+  * certutil -hashfile <ten-file> (check hash virustotal)
   * https://github.com/Da2dalus/The-MALWARE-Repo
   * https://github.com/CMEPW/BypassAV
   * https://anonyviet.com/hacker-an-malware-vao-hinh-anh-va-thuc-thi-nhu-the-nao/?fbclid=IwAR23pXiQNxQkhijurEbGFHk2nuCeZn3VsBY0GgbrCcyx_ojOEgY7InjszLI_aem_AdKHux11-ltaYC1vH3PTR7guZ_n1Bv46eDb7VmGrCf8CoKgb1lL4IrHRJtUGyBA9iU8
