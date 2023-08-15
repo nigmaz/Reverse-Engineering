@@ -69,6 +69,7 @@
 - https://github.com/michalmalik/linux-re-101
 - https://github.com/michalmalik/osx-re-101
 - Malware
+  * Bypass windows defender
   * certutil -hashfile <ten-file> (check hash virustotal)
   * https://github.com/Da2dalus/The-MALWARE-Repo
   * https://github.com/CMEPW/BypassAV
