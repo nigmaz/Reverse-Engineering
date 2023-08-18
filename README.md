@@ -80,6 +80,14 @@
   * https://class.malware.re/
   * https://knightz1.github.io/blog/malware/analysis/2022/11/30/Malware-analysis.html
   * Tấn công thông qua sửa Windows Registry => sửa tham số hệ thống, có 1 dịch vụ dangerous là `remote windows registry`.
+  * Các cơ chế `Autorun` nhằm `Persistence` như:
+      + services 
+      + schedules task
+      + office application startup
+  * Lây lan qua mạng `Lateral Movement` Tools chuyển tiếp gói tin, pivot point làm lây lan từ máy victim vào mạng, có hai cách là:    
+      + forwarding / proxy (Blueteam dễ điều tra hơn)
+      + tunneling (đóng  gói traffic trong protocol khác). (VD: ssh tunneling)
+
 - Paper tech and real attack
   * https://whitehat.vn/threads/chien-dich-aurora-va-cuoc-chien-ngam-tren-khong-gian-mang-giua-hai-sieu-cuong-phan-1.17333/
 
