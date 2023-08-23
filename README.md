@@ -91,3 +91,6 @@
 - Paper tech and real attack
   * https://whitehat.vn/threads/chien-dich-aurora-va-cuoc-chien-ngam-tren-khong-gian-mang-giua-hai-sieu-cuong-phan-1.17333/
 
+- Tools dump memory
+  * https://github.com/volatilityfoundation/volatility
+  * ...
