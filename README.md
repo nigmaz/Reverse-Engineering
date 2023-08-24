@@ -3,6 +3,7 @@
 > Practical the Reverse-Engineering technique.
 
 - **Practical Malware Analysis:**
+    * Obfuscate and Junk-code . 
     * Anti-Disassembly .
     * Anti-Debugging .
     * Anti-Virtual Machine Techniques .
