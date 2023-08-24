@@ -94,4 +94,5 @@
 - Tools dump memory
   * https://github.com/volatilityfoundation/volatility
   * https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
+  * https://github.com/1259iknowthat/ForVM
   * ...
