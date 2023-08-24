@@ -2,14 +2,14 @@
 
 > Practical the Reverse-Engineering technique.
 
-- `Practical Malware Analysis:`
+- **Practical Malware Analysis:**
     * Anti-Disassembly .
     * Anti-Debugging .
     * Anti-Virtual Machine Techniques .
     * Packers and Unpacking .
     * ...
 
-- `RE Platform`
+- **RE Platform**
     * Reverse Cpp .
     * Dotnet .
     * Android .
