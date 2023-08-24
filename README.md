@@ -9,9 +9,12 @@
     * Packers and Unpacking .
     * ...
 
-- **RE Platform**
+- **Practical RE Platform:**
     * Reverse Cpp .
     * Dotnet .
     * Android .
     * ARM .
     * ...
+
+- **References:**
+    * Flare-On .
