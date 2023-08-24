@@ -95,4 +95,5 @@
   * https://github.com/volatilityfoundation/volatility
   * https://github.com/volatilityfoundation/volatility/wiki/Command-Reference
   * https://github.com/1259iknowthat/ForVM
+  * BKsec-memorydump: https://gist.github.com/1259iknowthat/8cb818f0a37566b1fc25151ef074d9af
   * ...
