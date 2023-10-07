@@ -11,9 +11,9 @@
     * ...
 
 - **Practical RE Platform:**
-    * Reverse Cpp .
-    * Dotnet .
-    * Android .
+    * Cpp and WindowsAPI .
+    * Csharp and Dotnet .
+    * Java and Android .
     * ARM .
     * ...
 
