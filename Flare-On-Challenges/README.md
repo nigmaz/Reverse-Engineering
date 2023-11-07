@@ -1,2 +1,3 @@
 # Flare-On-Challenges
-> @flare-on.com
+
+> <flag>@flare-on.com
